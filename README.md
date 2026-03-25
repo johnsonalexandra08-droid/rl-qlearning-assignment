@@ -1,7 +1,7 @@
 # rl-qlearning-assignment
 
 **AAI 201 — M9: Q-Learning with OpenAI Gymnasium**  
-**Student:** Alexandra Johnson
+**Student:** Hannah Johnson
 
 ---
 
